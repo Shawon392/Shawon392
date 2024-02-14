@@ -7,6 +7,7 @@ With a passion for creating robust solutions, I bring expertise in Oracle SQL, P
 
 ## Skills & Experience: 
 ✔️Oracle Database </br> ✔️SQL </br> ✔️PL-SQL </br> ✔️Oracle Apex </br> ✔️Oracle Forms </br> ✔️Oracle Reports </br> ✔️BI Publisher </br> ✔️JavaScript </br> ✔️HTML ✔️CSS
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shawon392)](https://github.com/Shawon392/github-readme-stats)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawon392)](https://github.com/anuraghazra/github-readme-stats)
