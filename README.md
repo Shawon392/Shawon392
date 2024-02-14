@@ -9,6 +9,7 @@ With a passion for creating robust solutions, I bring expertise in Oracle SQL, P
 ✔️Oracle Database </br> ✔️SQL </br> ✔️PL-SQL </br> ✔️Oracle Apex </br> ✔️Oracle Forms </br> ✔️Oracle Reports </br> ✔️BI Publisher </br> ✔️JavaScript </br> ✔️HTML ✔️CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawon392)](https://github.com/anuraghazra/github-readme-stats)
+<!--
 - 🔭 I’m currently working on my project. 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on Oracle Apex. 
@@ -16,7 +17,7 @@ With a passion for creating robust solutions, I bring expertise in Oracle SQL, P
 - 📫 How to reach me: shawonsheikh392@gmail.com 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I think I am funny. 
-
+-->
 ## Connect with me! 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shawon392)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/shawon-sheikh/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/shawon.sheikh.100095531288058)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/+8801779815788)  
 
