@@ -6,7 +6,7 @@ with a strong foundation in Database Design & Development. My journey began with
 With a passion for creating robust solutions, I bring expertise in Oracle SQL, PL/SQL, Oracle Apex, Oracle Forms, Oracle Reports, JavaScript, HTML5 & CSS3, and Oracle BI Publisher. My journey in the dynamic field of Oracle development has equipped me with the skills to design and implement efficient database solutions.
 
 ## Skills: 
-✔️Oracle Database </br> ✔️SQL / ✔️PL-SQL / ✔️Oracle Apex / ✔️Oracle Forms / ✔️Oracle Reports / ✔️BI Publisher / ✔️JavaScript / ✔️HTML / ✔️CSS
+✔️Oracle Database </br> ✔️SQL </br> ✔️PL-SQL </br> ✔️Oracle Apex </br> ✔️Oracle Forms </br> ✔️Oracle Reports </br> ✔️BI Publisher </br> ✔️JavaScript </br> ✔️HTML ✔️CSS
 
 - 🔭 I’m currently working on my project. 
 - 🌱 I’m currently learning JavaScript 
