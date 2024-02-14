@@ -1,6 +1,7 @@
+![An accomplished Oracle Apex Developer](https://media.licdn.com/dms/image/D5616AQFq4Nxt70lxZw/profile-displaybackgroundimage-shrink_350_1400/0/1707489385815?e=1713398400&v=beta&t=LmqOIgpTJ9PasLN7rs9IyVOohKlIpcsVqcTZDOWkqno)
 ### Hi there 👋, my name is Shawon Sheikh.
 #### An accomplished Oracle Apex Developer
-![An accomplished Oracle Apex Developer](https://media.licdn.com/dms/image/D5616AQFq4Nxt70lxZw/profile-displaybackgroundimage-shrink_350_1400/0/1707489385815?e=1713398400&v=beta&t=LmqOIgpTJ9PasLN7rs9IyVOohKlIpcsVqcTZDOWkqno)
+
 
  with a strong foundation in Database Design & Development. My journey began with a Diploma Course in Database Design & Development from IsDB-BISEW, where I honed my skills and laid the foundation for a fulfilling career in IT.
 With a passion for creating robust solutions, I bring expertise in Oracle SQL, PL/SQL, Oracle Apex, Oracle Forms, Oracle Reports, JavaScript, HTML5 & CSS3, and Oracle BI Publisher. My journey in the dynamic field of Oracle development has equipped me with the skills to design and implement efficient database solutions.
