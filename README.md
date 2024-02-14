@@ -7,7 +7,7 @@ With a passion for creating robust solutions, I bring expertise in Oracle SQL, P
 
 Skills: Oracle Database / SQL / PL-SQL / Oracle Apex / Oracle Forms / Oracle Reports / BI Publisher / JavaScript / HTML / CSS
 
-- 🔭 I’m currently working on my personal project. 
+- 🔭 I’m currently working on my project. 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on Oracle Apex. 
 - 💬 Ask me about Oracle Apex, SQL, PL/SQL, Oracle Forms, and Oracle Reports. 
