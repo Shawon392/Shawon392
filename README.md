@@ -2,15 +2,18 @@
 ### Hi there 👋, my name is Shawon Sheikh.
 #### An accomplished Oracle Apex Developer
 
-
- with a strong foundation in Database Design & Development. My journey began with a Diploma Course in Database Design & Development from IsDB-BISEW, where I honed my skills and laid the foundation for a fulfilling career in IT.
+with a strong foundation in Database Design & Development. My journey began with a Diploma Course in Database Design & Development from IsDB-BISEW, where I honed my skills and laid the foundation for a fulfilling career in IT.
 With a passion for creating robust solutions, I bring expertise in Oracle SQL, PL/SQL, Oracle Apex, Oracle Forms, Oracle Reports, JavaScript, HTML5 & CSS3, and Oracle BI Publisher. My journey in the dynamic field of Oracle development has equipped me with the skills to design and implement efficient database solutions.
 
 Skills: Oracle Database / SQL / PL-SQL / Oracle Apex / Oracle Forms / Oracle Reports / BI Publisher / JavaScript / HTML / CSS
 
 - 🔭 I’m currently working on my personal project. 
 - 🌱 I’m currently learning JavaScript 
+- 👯 I’m looking to collaborate on Oracle Apex. 
+- 💬 Ask me about Oracle Apex, SQL, PL/SQL, Oracle Forms, and Oracle Reports. 
+- 📫 How to reach me: shawonsheikh392@gmail.com 
 - 😄 Pronouns: He/Him 
+- ⚡ Fun fact: I think I am funny. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shawon392)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/shawon-sheikh/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/shawon.sheikh.100095531288058)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/+8801779815788)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](shawonsheikh392@gmail.com)  
